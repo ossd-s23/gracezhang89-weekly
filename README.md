@@ -1,2 +1,1 @@
-This is a simple template for the class blog. 
-
+Grace Zhang's weekly blog for Open Source.
