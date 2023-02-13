@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+	background: ghostwhite;
+  font: 18px/1.4 "Proxima Nova";
+  color: darkolivegreen;
 }
 
 .container {
@@ -76,7 +76,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: "Proxima Nova";
   color: $darkerGray;
   font-weight: bold;
 
@@ -114,11 +114,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: darkolivegreen;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: darkolivegreen;
   }
 }
 
@@ -237,9 +237,9 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: darkolivegreen;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: "Proxima Nova";
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
@@ -258,7 +258,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: "Proxima Nova";
   font-size: 18px;
 
   @include mobile {
@@ -270,14 +270,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: darkolivegreen;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: darkolivegreen;
     }
   }
 }
@@ -331,11 +331,9 @@ footer {
 
 table {
   border-collapse:collapse;
-  border: 1px solid #eee;
 
   th {
     font-weight: 800;
-    background-color: #eee;
     border: 1px solid white;
     padding: 10px;
   }
