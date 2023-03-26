@@ -25,3 +25,4 @@ Replace the first row with your own contribution.
 | Feb 19   | [GitHub issue](https://github.com/joannakl/ossd/issues/47)    | Course Website    |   I fixed a team's extension name.    |
 | Mar 2    | [GitHub issue](https://github.com/joannakl/ossd/issues/51)    | Course Website    |   I added the course website GitHub to the navigation bar   |
 | Mar 21   | [GitHub issue](https://github.com/joannakl/ossd/issues/69)    | Course Website    |   Created an issue to add the link to ED   |
+| Mar 26   | [Wikipedia article](https://en.wikipedia.org/wiki/Aisha_Muhammed-Oyebode)    | Wikipedia    |   Added three more categories to an article in need of more according to the March 2023 cleanup   |
