@@ -28,3 +28,4 @@ Replace the first row with your own contribution.
 | Mar 26   | [Wikipedia article](https://en.wikipedia.org/wiki/Aisha_Muhammed-Oyebode)    | Wikipedia    |   Added three more categories to an article in need of more according to the March 2023 cleanup   |
 | Apr 4    | [OpenStreetMap](https://www.openstreetmap.org/changeset/134518701)  | OpenStreetMap   | Added more details about an apartment complex   |
 | Apr 10   | [GitHub issue](https://github.com/ossd-s23/daniellehzhao-weekly/issues/1)  | Student Blog | Added an issue for another student's blog  |
+| Apr 12    | [OpenStreetMap] (https://www.openstreetmap.org/changeset/134797927)   | OpenStreetMap | Edited a boba shop and added a restaurant |
