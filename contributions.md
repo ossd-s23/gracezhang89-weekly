@@ -27,3 +27,4 @@ Replace the first row with your own contribution.
 | Apr 12 | [OpenStreetMap](https://www.openstreetmap.org/changeset/134797927)        | OpenStreetMap  | Edited a boba shop and added a restaurant                                                     |
 | Apr 16 | [OpenStreetMap](https://www.openstreetmap.org/changeset/134996019)        | OpenStreetMap  | Added a boba shop                                                                             |
 | Apr 19 | [OpenStreetMap](https://www.openstreetmap.org/changeset/135121987)        | OpenStreetMap  | Removed Pizza Mercato since it closed, updated Lazy Sundaes name, added Wanpo Tea Shop        |
+| Apr 25 | [OpenStreetMap](https://www.openstreetmap.org/changeset/135355776)   | OpenStreetMap | Added information to Plantshed and updated PaTea with their rebranding as MooMooCha
